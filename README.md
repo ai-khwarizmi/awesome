@@ -13,3 +13,6 @@
 # Email
 - https://mjml.io/ for creating the emails
 - https://sendy.co/ for sending the emails
+
+# Document Signing
+- https://www.docuseal.com/ 
